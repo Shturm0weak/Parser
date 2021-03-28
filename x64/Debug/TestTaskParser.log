@@ -1,0 +1,11 @@
+﻿  Node.cpp
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Parser.h(27,22): warning C4099: Node: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Node.h(6): message : см. объявление "Node"
+  Parser.cpp
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Parser.h(27,22): warning C4099: Node: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Node.h(6): message : см. объявление "Node"
+  Main.cpp
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Parser.h(27,22): warning C4099: Node: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Node.h(6): message : см. объявление "Node"
+  Создание кода...
+  TestTaskParser.vcxproj -> C:\Users\Alexandr\source\repos\TestTaskParser\x64\Debug\TestTaskParser.exe

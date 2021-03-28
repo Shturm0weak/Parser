@@ -1,0 +1,14 @@
+﻿  Node.cpp
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Parser.h(27,22): warning C4099: Node: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Node.h(6): message : см. объявление "Node"
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Node.cpp(24,35): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Node.cpp(44,29): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Node.cpp(58,19): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+  Parser.cpp
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Parser.h(27,22): warning C4099: Node: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Node.h(6): message : см. объявление "Node"
+  Main.cpp
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Parser.h(27,22): warning C4099: Node: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+C:\Users\Alexandr\source\repos\TestTaskParser\src\Parser\Node.h(6): message : см. объявление "Node"
+  Создание кода...
+  TestTaskParser.vcxproj -> C:\Users\Alexandr\source\repos\TestTaskParser\Debug\TestTaskParser.exe

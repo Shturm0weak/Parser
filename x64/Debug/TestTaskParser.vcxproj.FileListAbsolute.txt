@@ -1,0 +1,2 @@
+C:\Users\Alexandr\source\repos\TestTaskParser\x64\Debug\TestTaskParser.exe
+C:\Users\Alexandr\source\repos\TestTaskParser\x64\Debug\TestTaskParser.pdb
